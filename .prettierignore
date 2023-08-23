@@ -1,0 +1,12 @@
+# Ignore artifacts:
+node_modules
+public
+dist
+README.md
+package.json
+package-lock.json
+.gitignore
+.prettierignore
+
+# Ignore all HTML files:
+*.html
